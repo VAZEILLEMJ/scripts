@@ -7,3 +7,4 @@ echo the second argument is Â$2
 echo the third argument is $3
 #
 
+#ceci est un test
